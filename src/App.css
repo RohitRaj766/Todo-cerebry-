@@ -1,0 +1,53 @@
+
+
+
+.todohead{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  padding: 10px;
+  background-color: white;
+  box-shadow: 0px 0px 10px 4px rgba(0,0,0,0.1);
+}
+
+.todohead *{
+  margin-left:5px ;
+}
+
+.Input{
+  background-color: #eef7ff;
+  box-shadow: inset 0px 0px  10px 4px #dce6ef;
+  font-size: 1rem;
+}::placeholder{
+  color: #9db2c0;
+  font-weight: 600;
+}
+
+.todoItems{
+  border-radius: 5px ;
+  border: none;
+  padding: 8px;
+}
+
+.alertInput{
+  background-color: #eef7ff;
+  box-shadow: inset 0px 0px  10px 4px #dce6ef;
+  font-size: 1rem;
+ padding: 8px;
+ border-radius: 5px;
+ border: 1px solid red;
+  box-shadow: 0px 0px 10px 1px rgb(255, 2, 2,0.5);
+}
+
+.todohead button{
+  background-color: rgb(0, 136, 255);
+  color: white;
+}
+
+.Todobtn:hover{
+  background-color: #96ceff;
+  color: #000000;
+}
+
+
