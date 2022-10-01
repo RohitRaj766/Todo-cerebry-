@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Todo-cerebry/static/css/main.f37e7ede.css",
-    "main.js": "/Todo-cerebry/static/js/main.8e780f84.js",
-    "index.html": "/Todo-cerebry/index.html",
-    "main.f37e7ede.css.map": "/Todo-cerebry/static/css/main.f37e7ede.css.map",
-    "main.8e780f84.js.map": "/Todo-cerebry/static/js/main.8e780f84.js.map"
+    "main.css": "/Todo-cerebry-/static/css/main.f37e7ede.css",
+    "main.js": "/Todo-cerebry-/static/js/main.8e780f84.js",
+    "index.html": "/Todo-cerebry-/index.html",
+    "main.f37e7ede.css.map": "/Todo-cerebry-/static/css/main.f37e7ede.css.map",
+    "main.8e780f84.js.map": "/Todo-cerebry-/static/js/main.8e780f84.js.map"
   },
   "entrypoints": [
     "static/css/main.f37e7ede.css",
